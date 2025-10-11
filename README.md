@@ -4,3 +4,12 @@
 **Course:** SECP3744 – Enterprise Systems Design & Modelling  
 **Topic:** Business Intelligence (BI) Dashboards and Visual Analytics in ERP Systems  
 **Members:** Choh Jing Yi (A23CS0296), Chua Jia Lin (A23CS0069)  
+
+## 🧾 Logbook / Process Record
+
+| Date | Activity / Progress | Keywords / Prompts Used | References / Sources | Verification / Notes |
+|------|---------------------|--------------------------|----------------------|----------------------|
+| 08 Oct 2025 | Searched for background literature on BI dashboards | “Business Intelligence dashboards ERP systems journal” | Wixom & Watson (2010); Keim et al. (2010) | Checked abstracts and citation count on Google Scholar |
+| 09 Oct 2025 | Used ChatGPT to summarize journal findings | “Summarize BI dashboards and ERP integration” | Chaudhuri et al. (2011) | Verified key concepts with academic database |
+| 10 Oct 2025 | Drafted Background section in Word | N/A | Ramakrishnan et al. (2020) | Reviewed by teammate |
+| 11 Oct 2025 | Edited visual analytics section and added figure references | “Visual analytics ERP manufacturing example” | Qlik (2024) | Confirmed figure source and caption accuracy |
