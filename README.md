@@ -15,7 +15,7 @@
 | 11 Oct 2025 | Edited visual analytics section and added figure references | “Visual analytics ERP manufacturing example” | Qlik (2024) | Confirmed figure source and caption accuracy |
 | 11 Oct 2025 | Searched for BI dashboard and visual analytics introduction, and drafted the Introduction part | “BI dashboard”, "visual analytics" | (What Is ERP? The Essential Guide SAP, n.d.-b); JulCsc (n.d.-b); (Domo, Inc., 2025d) | Understand basic knowledge of BI dashboard and visual analytics |
 | 12 Oct 2025 | Searched for visual analytics steps, and edited the Analysis and Discussion part | "visual analytics steps" | Mishra (2025f) | Learned visual analytics steps |
-| 13 Oct 2025 | Searched for visual analytics improvement suggesstions, and edited the Recommendation part | "visual analytics improvement suggesstions" | NA | Understand visual analytics recommendations |
+| 13 Oct 2025 | Searched for visual analytics improvement suggesstions, and edited the Recommendation part | "visual analytics improvement suggesstions" | (Business Analytics Institute, 2025) | Understand visual analytics recommendations |
 
 ## ✅ Summary of Research Progress
 - Background and Literature Review: *In progress**
