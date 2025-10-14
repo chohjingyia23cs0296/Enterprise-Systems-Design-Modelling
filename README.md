@@ -16,9 +16,10 @@
 | 11 Oct 2025 | Searched for BI dashboard and visual analytics introduction, and drafted the Introduction part | “BI dashboard”, "visual analytics" | (What Is ERP? The Essential Guide SAP, n.d.-b); JulCsc (n.d.-b); (Domo, Inc., 2025d) | Understand basic knowledge of BI dashboard and visual analytics |
 | 12 Oct 2025 | Searched for visual analytics steps, and edited the Analysis and Discussion part | "visual analytics steps" | Mishra (2025f) | Learned visual analytics steps |
 | 13 Oct 2025 | Searched for visual analytics improvement suggesstions, and edited the Recommendation part | "visual analytics improvement suggesstions" | (Business Analytics Institute, 2025) | Understand visual analytics recommendations |
+| 14 Oct 2025 | Use ChatGPT to summarise the report, and edited the Conclusion part | "summarise the report" | NA | Obtained brief summary about BI dashboards and visual analytics |
 
 ## ✅ Summary of Research Progress
 - Background and Literature Review: *In progress**
 - Analysis and Discussion: **In progress**
-- References: **9 verified (APA 7th Edition)**
+- References: **10 verified (APA 7th Edition)**
 - AI Tool Used: **ChatGPT (for summarization and drafting only)**
