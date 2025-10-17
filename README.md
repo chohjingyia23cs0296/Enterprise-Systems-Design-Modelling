@@ -19,7 +19,10 @@
 | 20 Oct 2025 | Uploaded final version to GitHub and prepared appendix screenshot. | "Check the logic of the report based on the rubric.Are this report fullfill the report guildance and what need to be improve" | N/A | Verified together with teammate |
 
 ## ✅ Summary of Research Progress
+- Introduction: **Done**
 - Background and Literature Review: **Done**
 - Analysis and Discussion: **Done**
+- Conclusion: **Done**
+- Executive Summary: **Done**
 - References: **Google website(APA 7th Edition)**
 - AI Tool Used: **ChatGPT (for understanding topics, summarization, drafting and grammar check only)**
