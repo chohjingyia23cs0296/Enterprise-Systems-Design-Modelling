@@ -9,7 +9,11 @@
 
 | Date | Activity / Progress | Keywords / Prompts Used | References / Sources | Verification / Notes |
 |------|---------------------|--------------------------|----------------------|----------------------|
-| 08 Oct 2025 | Searched for background literature on BI dashboards | “Business Intelligence dashboards ERP systems journal” | Wixom & Watson (2010); Keim et al. (2010) | Checked abstracts and citation count on Google Scholar |
+| 09 Oct 2025 | Selected topic and discussed project scope with groupmate. Analyse the project title and rubric | “BI dashboards in ERP systems”, “Visual analytics in enterprise resource planning” | - | - |
+| 08 Oct 2025 | Searched for background writing on BI dashboards | “Background of Business Intelligence dashboards and visual analytics in ERP systems” |1. Bullis, J. (2025, September 12). 22 ERP systems and software examples. Cube Software. https://www.cubesoftware.com/blog/erp-system-examples 2.Visual analytics: What it is, why it’s important, and how it’s used. Discover the Domo Data Experience Platform. (n.d.). https://www.domo.com/learn/article/visual-analytics
+3. Lawton, G. (2024, December 6). Top 12 business intelligence challenges to manage: TechTarget. Search Business Analytics. https://www.techtarget.com/searchbusinessanalytics/tip/Top-11-business-intelligence-challenges-and-how-to-overcome-them
+4.CloudZero, & Slingerland, C. (2024, October 16). 15 Cloud Business Intelligence Tools: Organized by category. CloudZero. https://www.cloudzero.com/blog/cloud-business-intelligence-tools/ | Checked abstracts and citation count on Google Scholar |
+| 08 Oct 2025 | Searched for background writing on BI dashboards | “Background of Business Intelligence dashboards and visual analytics in ERP systems” |Bullis, J. (2025, September 12). 22 ERP systems and software examples. Cube Software. https://www.cubesoftware.com/blog/erp-system-examples | Checked abstracts and citation count on Google Scholar |
 | 09 Oct 2025 | Used ChatGPT to summarize journal findings | “Summarize BI dashboards and ERP integration” | Chaudhuri et al. (2011) | Verified key concepts with academic database |
 | 10 Oct 2025 | Drafted Background section in Word | N/A | Ramakrishnan et al. (2020) | Reviewed by teammate |
 | 11 Oct 2025 | Edited visual analytics section and added figure references | “Visual analytics ERP manufacturing example” | Qlik (2024) | Confirmed figure source and caption accuracy |
