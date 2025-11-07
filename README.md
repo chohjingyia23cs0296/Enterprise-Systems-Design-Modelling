@@ -18,6 +18,9 @@
 | 14 Oct 2025 | Write executive summary | N/A | N/A |  Highlighting the paper’s purpose, key findings or arguments, and main conclusions or recommendations based on understanding of the report |
 | 16 Oct 2025 | Finalized report formatting, edited grammar.List citation and appendix clearly | “Grammar check for this report” | N/A | Verified together with teammate |
 | 20 Oct 2025 | Uploaded final version to GitHub and prepared appendix screenshot. | "Check the logic of the report based on the rubric.Are this report fullfill the report guildance and what need to be improve" | N/A | Verified together with teammate |
+| 07 Nov 2025 | Discussion between group member to prepare presentation slide | "do a 10 canva slide to present the report.use pechakucha concept so means there will an average 18 second present time on each slide. PechaKucha is a presentation format where a speaker uses 10 slides, with each slide auto-advancing after 18 seconds, for a total presentation time of 3 minutes." | N/A | N/A |
+| 08 Nov 2025 | Finalized presentation slide and prepare presentation script | N/A | N/A | N/A |
+| 11 Nov 2025 | Practice presentation | N/A | N/A | N/A |
 
 ## ✅ Summary of Research Progress
 - Introduction: **Done**
